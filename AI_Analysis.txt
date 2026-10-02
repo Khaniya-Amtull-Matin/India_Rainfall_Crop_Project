@@ -1,0 +1,28 @@
+====================================================================
+AI TOOL INTEGRATION REPORT & EVALUATION
+Project: India Rainfall & Crop Production Analysis (1997-2015)
+Course Code: CUTM1018
+====================================================================
+
+1. AI TOOLS UTILIZED:
+   - Google Gemini / ChatGPT
+
+2. DELEGATED TASKS:
+   - Debugging Dash UI layout errors (resolving RangeSlider styling properties).
+   - Optimizing Python/Pandas state-wise data filtering logic.
+   - Assisting in styling custom CSS for dark-mode interface.
+   - Synchronizing RangeSlider callbacks with numeric input controls.
+
+3. PROMPT EXAMPLES & AI RESPONSES:
+
+   Prompt 1: "How to sync a dcc.RangeSlider with two numeric Input boxes in Plotly Dash using callbacks?"
+   AI Output: Provided circular callback resolution logic and state-handling structure using Dash Input/Output decorators.
+   Evaluation: Highly accurate. Successfully implemented to allow dual-input year selection.
+
+   Prompt 2: "Fix RangeSlider invalid property errors in Dash (e.g., trackStyle)."
+   AI Output: Corrected inline styling syntax and migrated custom colors to external/embedded CSS stylesheets.
+   Evaluation: Resolved UI rendering bugs and prevented browser console warnings.
+
+4. ACCURACY AND IMPACT:
+   - The AI tools accelerated UI debugging and eliminated callback synchronization bugs.
+   - Code reliability and modularity were significantly improved through AI recommendations.
